@@ -68,6 +68,6 @@ A mobile application designed to track your expenses. You can add and delete exp
 
 ## Contact
 
-Name - [markmahrous012@gmail.com](mailto:markmahrous012@gmail.com)
+Mark Mahrous - [markmahrous012@gmail.com](mailto:markmahrous012@gmail.com)
 
 Project Link: [https://github.com/MarkMahrous/Expenses_Tracker.git](https://github.com/MarkMahrous/Expenses_Tracker.git)
