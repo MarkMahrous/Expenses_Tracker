@@ -43,8 +43,10 @@ A mobile application that is used to track expenses where you can add and delete
 <img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/app1.jpg" width="300">
 
 ### Add new Expense
-<img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/submit2.jpg" width="300">
-<img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/submit1.jpg" width="300">
+<p float="left">
+  <img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/submit2.jpg" width="300">
+  <img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/submit1.jpg" width="300">
+</p>
 
 ### Show new expenses added
 <img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/app2.jpg" width="300">
@@ -53,14 +55,16 @@ A mobile application that is used to track expenses where you can add and delete
 <img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/delete.jpg" width="300">
 
 ### Switch to Dark mode
-<img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/dark1.jpg" width="300">
-<img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/dark2.jpg" width="300">
+<p float="left">
+  <img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/dark1.jpg" width="300">
+  <img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/dark2.jpg" width="300">
+</p>
 
 ### Screen Orientation
-<img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/orientation1.jpg" width="300">
-<img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/orientation2.jpg" width="300">
-
-
+<p float="left">
+  <img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/orientation1.jpg" width="300">
+  <img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/orientation2.jpg" width="300">
+</p>
 
 ## Contact
 
