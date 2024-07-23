@@ -19,8 +19,9 @@ A mobile application designed to track your expenses. You can add and delete exp
 
 ## Technologies 
 
-- **Flutter**: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
-- **Dart**: The programming language used by Flutter.
+- [**Flutter**](https://flutter.dev/): A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- [**Dart**](https://dart.dev/): The programming language used by Flutter.
+- [**Visual Studio Code**](https://code.visualstudio.com/): A lightweight and powerful code editor with excellent support for various programming languages.
 
 ## Installation
 
