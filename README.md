@@ -1,6 +1,6 @@
 # Expenses Tracker app
 
-A mobile application that is used to track expenses where you can add and delete expenses and make a comparison between all the expenses.
+A mobile application designed to track your expenses. You can add and delete expenses, and compare them to gain insights into your spending habits.
 
 ## Table of Contents
 - [Features](#features)
@@ -11,11 +11,11 @@ A mobile application that is used to track expenses where you can add and delete
 
 ## Features
 
-- Add expenses: You can add expense by specifying its title, cost, date and category.
-- Remove expenses: You can remove expenses by swiping them to the left or right and also be able to undo removing expense.
-- Compare categories: You can make a comparison between different categories to know which categories cost the most/least through a chart.
-- Switch to dark mode: The app mode depends on the system mode so you can switch to dark mode by switch mobile system mode to dark mode.
-- Enable orientation: The app screen is oriented with mobile orientation keeping all widgets visible.
+- Add Expenses: Easily add an expense by specifying its title, cost, date, and category.
+- Remove Expenses: Effortlessly remove expenses by swiping left or right, with the option to undo the removal.
+- Compare Categories: Compare different categories to see which ones have the highest or lowest costs using an intuitive chart.
+- Switch to Dark Mode: The app adapts to your system settings, automatically switching to dark mode when your device is set to dark mode.
+- Enable Orientation: The app screen adjusts to your device’s orientation, ensuring all widgets remain visible in both portrait and landscape modes.
 
 ## Technologies 
 
@@ -68,6 +68,6 @@ A mobile application that is used to track expenses where you can add and delete
 
 ## Contact
 
-Your Name - [markmahrous012@gmail.com](mailto:markmahrous012@gmail.com)
+Name - [markmahrous012@gmail.com](mailto:markmahrous012@gmail.com)
 
 Project Link: [https://github.com/MarkMahrous/Expenses_Tracker.git](https://github.com/MarkMahrous/Expenses_Tracker.git)
