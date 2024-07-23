@@ -1,4 +1,4 @@
-# Expenses Tracker app
+# Expenses Tracker App
 
 A mobile application designed to track your expenses. You can add and delete expenses, and compare them to gain insights into your spending habits.
 
@@ -63,8 +63,8 @@ A mobile application designed to track your expenses. You can add and delete exp
 
 ### Screen Orientation
 <p float="left">
-  <img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/orientation1.jpg" width="300">
-  <img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/orientation2.jpg" width="300">
+  <img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/orientation1.jpg" width="500">
+  <img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/orientation2.jpg" width="500">
 </p>
 
 ## Contact
