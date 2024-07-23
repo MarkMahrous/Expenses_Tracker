@@ -11,11 +11,11 @@ A mobile application designed to track your expenses. You can add and delete exp
 
 ## Features
 
-- Add Expenses: Easily add an expense by specifying its title, cost, date, and category.
-- Remove Expenses: Effortlessly remove expenses by swiping left or right, with the option to undo the removal.
-- Compare Categories: Compare different categories to see which ones have the highest or lowest costs using an intuitive chart.
-- Switch to Dark Mode: The app adapts to your system settings, automatically switching to dark mode when your device is set to dark mode.
-- Enable Orientation: The app screen adjusts to your device’s orientation, ensuring all widgets remain visible in both portrait and landscape modes.
+- **Add Expenses**: Easily add an expense by specifying its title, cost, date, and category.
+- **Remove Expenses**: Effortlessly remove expenses by swiping left or right, with the option to undo the removal.
+- **Compare Categories**: Compare different categories to see which ones have the highest or lowest costs using an intuitive chart.
+- **Switch to Dark Mode**: The app adapts to your system settings, automatically switching to dark mode when your device is set to dark mode.
+- **Enable Orientation**: The app screen adjusts to your device’s orientation, ensuring all widgets remain visible in both portrait and landscape modes.
 
 ## Technologies 
 
