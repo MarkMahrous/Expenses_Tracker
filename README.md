@@ -39,35 +39,31 @@ A mobile application that is used to track expenses where you can add and delete
 
 ## Screenshots
 
-### How the app look like.
-![Screenshot1](https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/app1.jpg)
-
+### How the app look like
+<img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/app1.jpg" width="300">
 
 ### Add new Expense
-![Screenshot2](https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/submit2.jpg)
-![Screenshot3](https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/submit1.jpg)
-
+<img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/submit2.jpg" width="300">
+<img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/submit1.jpg" width="300">
 
 ### Show new expenses added
-![Screenshot4](https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/app2.jpg)
-
+<img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/app2.jpg" width="300">
 
 ### Remove/Undo expenses
-![Screenshot5](https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/delete.jpg)
-
+<img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/delete.jpg" width="300">
 
 ### Switch to Dark mode
-![Screenshot6](https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/dark1.jpg)
-![Screenshot7](https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/dark2.jpg)
-
+<img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/dark1.jpg" width="300">
+<img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/dark2.jpg" width="300">
 
 ### Screen Orientation
-![Screenshot8](https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/orientation1.jpg)
-![Screenshot9](https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/orientation2.jpg)
+<img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/orientation1.jpg" width="300">
+<img src="https://github.com/MarkMahrous/Expenses_Tracker/blob/main/Screenshots/orientation2.jpg" width="300">
+
 
 
 ## Contact
 
 Your Name - [markmahrous012@gmail.com](mailto:markmahrous012@gmail.com)
 
-Project Link: [https://github.com/your_username/project_name](https://github.com/MarkMahrous/Expenses_Tracker.git)
+Project Link: [https://github.com/MarkMahrous/Expenses_Tracker.git](https://github.com/MarkMahrous/Expenses_Tracker.git)
